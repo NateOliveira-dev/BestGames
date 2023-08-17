@@ -37,7 +37,7 @@ class Home extends React.Component {
             <header className="header">
               <h1>Os melhores jogos de todos os tempos.
               </h1>
-              <small>Na nossa opinião &#128540;</small> 
+              <small>Na minha opinião &#128540;</small> 
             </header>
               {loading ? 
                 <Loading />
